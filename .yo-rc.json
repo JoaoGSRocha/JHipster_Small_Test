@@ -9,7 +9,7 @@
     "baseName": "JHipster_Small_Test",
     "packageName": "com.joaogsrocha.jhipster_small_test",
     "packageFolder": "com/joaogsrocha/jhipster_small_test",
-    "serverPort": "8080",
+    "serverPort": "8100",
     "authenticationType": "jwt",
     "cacheProvider": "ehcache",
     "enableHibernateCache": true,
