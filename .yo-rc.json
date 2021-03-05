@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.joaogsrocha.jhipster_small_test",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "JHipster_Small_Test",
+    "packageName": "com.joaogsrocha.jhipster_small_test",
+    "packageFolder": "com/joaogsrocha/jhipster_small_test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MDc2MzJhMTQ5Nzk0ODZmYjMzYzBlY2NjN2RkMThiMjdhOWViNWZlOWE2ZTdhNTY0OGExMGU1NmIzYjcxZWRmNTZiYTFiYTcwN2ZlOWJhZmY0OGJjODhkY2M2OTIyNGY3ODIyMzcxMjQ1MzFmYjhmMDc4OWY4NGU5NmZkZDU4YzM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "lux",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1614959404080,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en"],
+    "blueprints": []
+  }
+}
